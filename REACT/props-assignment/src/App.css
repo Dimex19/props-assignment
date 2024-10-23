@@ -1,0 +1,13 @@
+.mainProCon {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 20px;
+  justify-content: space-between;
+}
+.productContainer {
+  width: 200px;
+  height: 300px;
+  border: 1px solid red;
+  box-shadow: 20px;
+  margin-bottom: 20PX;
+}
